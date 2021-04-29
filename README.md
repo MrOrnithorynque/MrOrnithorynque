@@ -8,7 +8,3 @@
 - 💬 Ask me anythings about DOOM, I will already like you.
 - 📫 How to reach me: https://www.linkedin.com/in/louis-ob%C3%A9niche-rousse-76098020a/
 - ⚡ Fun fact: no
-
-**<p align="center">**
-  **<img width="800" src="https://**
-**<p/>**

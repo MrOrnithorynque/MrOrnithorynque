@@ -8,7 +8,7 @@
 -  I’m currently learning C and C++.
 -  DOOM eternal is great, play it.
 -  How to reach me: https://www.linkedin.com/in/louis-ob%C3%A9niche-rousse-76098020a/
--  Fun fact: no.
+-  Fun fact: not funny.
 #
 # My languages
 <p align="center">

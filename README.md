@@ -9,4 +9,4 @@
 -  How to reach me: https://www.linkedin.com/in/louis-ob%C3%A9niche-rousse-76098020a/
 -  Fun fact: no.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrOrnithorynque&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrOrnithorynque&show_icons=true&%22%3E)

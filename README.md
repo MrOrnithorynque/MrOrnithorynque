@@ -1,5 +1,5 @@
 #
-# Ho hi!
+# Hey
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrOrnithorynque&show_icons=true%22%3E">
 </p>

@@ -16,5 +16,5 @@
 </p>
 
 I massively work in C, I'm looking forward to make C++ my main language.
-I will probably work in assembly, it's seems interesting.
+I will probably work in assembly too, it's seems interesting.
 

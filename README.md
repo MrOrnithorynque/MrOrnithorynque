@@ -9,6 +9,7 @@
 -  DOOM eternal is great, play it.
 -  How to reach me: https://www.linkedin.com/in/louis-ob%C3%A9niche-rousse-76098020a/
 -  Fun fact: not funny.
+-  I'm in love with the past work of Zdzisław Beksiński.
 #
 # My languages
 <p align="center">
